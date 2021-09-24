@@ -1,3 +1,5 @@
 Monkeys
 Zebras 
 Lions
+Giraffes 
+Elephants
